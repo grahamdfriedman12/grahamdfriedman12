@@ -13,7 +13,7 @@ Statistics & Economics + MS Quantitative Economics @ Pitt, 4 total years. Intere
 
 | | | |
 |---|---|---|
-| Jun 2026 – Aug 2026 | **Vcheck Global** — AI Analyst Intern | Remote |
+| Jun 2026 – Aug 2026 | **Vcheck Global** — AI Analyst Intern | New York City |
 | May 2025 – Aug 2025 | **Data Annotation** — AI Trainer, Statistical Analysis | Remote |
 | May 2024 – Aug 2024 | **Air Quality Controllers** — Technical Field Analyst | Downingtown, PA |
 
