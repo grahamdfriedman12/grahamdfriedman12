@@ -13,12 +13,12 @@ Statistics & Economics + MS Quantitative Economics @ Pitt, 4 total years. Intere
 
 | | | |
 |---|---|---|
-| Jun 2026 – Aug 2026 | **Vcheck Global** — AI Analyst Intern | New York City |
+| Jun 2026 – Aug 2026 | **Vcheck Global** — AI Analyst Intern | New York City, NY |
 | May 2025 – Aug 2025 | **Data Annotation** — AI Trainer, Statistical Analysis | Remote |
 | May 2024 – Aug 2024 | **Air Quality Controllers** — Technical Field Analyst | Downingtown, PA |
 
 ↳ University of Pittsburgh · BS Statistics & Economics + MS Quantitative Economics · April 2027  
-GPA 3.64 · Dean's List · Magna Cum Laude · Certificate in Sports Analytics  
+· Dean's List · Magna Cum Laude · Certificate in Sports Analytics  
 Study Abroad: Temple University Japan, Tokyo · Fall 2025
 
 ---
