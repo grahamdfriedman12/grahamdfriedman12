@@ -29,7 +29,7 @@ Applied econometrics · AI deployment · data analytics · financial analytics �
 
 ---
 
-## Projects
+## Projects That Your'e Looking For
 
 → [github.com/grahamdfriedman12/graham-friedman-applied-data-analysis](https://github.com/grahamdfriedman12/graham-friedman-applied-data-analysis)
 
