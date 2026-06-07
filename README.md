@@ -25,7 +25,7 @@ Study Abroad: Temple University Japan, Tokyo · Fall 2025
 
 ## Interests
 
-Applied econometrics · AI deployment · data analytics · financial analytics · sports analytics · due diligence research
+Applied econometrics · AI deployment · Data Analytics · Financial Analytics · Sports Analytics · Due Diligence Research
 
 ---
 
