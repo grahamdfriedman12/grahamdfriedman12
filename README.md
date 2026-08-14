@@ -1,13 +1,13 @@
 # Graham Friedman
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=1A2332&center=false&vCenter=true&width=600&lines=Business+Intelligence+%26+Data+Analyst;Predictive+Modeling+%7C+Forecasting+%7C+Applied+AI;Turning+data+into+decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=C9A84C&center=false&vCenter=true&width=800&lines=Business+Intelligence+%26+Data+Analyst;Predictive+Modeling+%7C+Forecasting+%7C+Applied+AI;Turning+data+into+decisions.)](https://git.io/typing-svg)
 
 Downingtown, PA → New York, NY  
 [grahamdfriedman@icloud.com](mailto:grahamdfriedman@icloud.com) · [LinkedIn](https://linkedin.com/in/friedg)
 
 ---
 
-Business Intelligence & Data Analyst. Statistics & Economics + MS Quantitative Economics @ Pitt, 4 total years. I build predictive models and business intelligence that turn data into decisions, with a focus on financial analytics, forecasting, and applied AI. Available for the right opportunity fall 2026, fully available April 2027.
+Business Intelligence & Data Analyst. Statistics & Economics (BS) + MS Quantitative Economics @ Pitt, completed in 4 total years. I build predictive models and business intelligence that turn data into decisions, with a focus on financial analytics, forecasting, and applied AI. Available for the right opportunity fall 2026, fully available April 2027.
 
 ---
 
@@ -28,7 +28,7 @@ Predictive Modeling · Forecasting · Econometrics · Regression · Anthropic AP
 | | | |
 |---|---|---|
 | Jun 2026 – Aug 2026 | **Vcheck Global** — Business Intelligence & Data Analyst Intern | New York City, NY |
-| Jul 2026 – Aug 2026 | **Extern (PwC Sprint)** — Data Analytics Extern | Remote |
+| Jul 2026 – Aug 2026 | **Extern (PwC Sprint)** — Data Analytics Extern | New York City, NY · Remote |
 | May 2025 – Aug 2025 | **Data Annotation** — LLM Output Evaluator, Statistical Reasoning | Remote |
 | May 2024 – Aug 2024 | **Air Quality Controllers** — Field Technician | Downingtown, PA |
 
