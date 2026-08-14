@@ -7,7 +7,7 @@ Downingtown, PA → New York, NY
 
 ---
 
-Business Intelligence & Data Analyst. Statistics & Economics (BS) + MS Quantitative Economics @ Pitt, completed in 4 total years. I build predictive models and business intelligence that turn data into decisions, with a focus on financial analytics, forecasting, and applied AI. Available for the right opportunity fall 2026, fully available April 2027.
+Business Intelligence & Data Analyst. Statistics & Economics (BS) + MS Quantitative Economics @ Pitt, completed in 4 total years. I build predictive models and business intelligence that turn data into decisions, with a focus on financial analytics, forecasting, and applied AI. Fully available for full-time opportunities starting April 2027.
 
 ---
 
