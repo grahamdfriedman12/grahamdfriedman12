@@ -1,21 +1,36 @@
 # Graham Friedman
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=1A2332&center=false&vCenter=true&width=600&lines=Business+Intelligence+%26+Data+Analyst;Predictive+Modeling+%7C+Forecasting+%7C+Applied+AI;Turning+data+into+decisions)](https://git.io/typing-svg)
+
 Downingtown, PA → New York, NY  
 [grahamdfriedman@icloud.com](mailto:grahamdfriedman@icloud.com) · [LinkedIn](https://linkedin.com/in/friedg)
 
 ---
 
-Statistics & Economics + MS Quantitative Economics @ Pitt, 4 total years. Interested in data analytics, financial analytics, AI deployment, and due diligence research. Available for the right opportunity fall 2026, fully available April 2027.
+Business Intelligence & Data Analyst. Statistics & Economics + MS Quantitative Economics @ Pitt, 4 total years. I build predictive models and business intelligence that turn data into decisions, with a focus on financial analytics, forecasting, and applied AI. Available for the right opportunity fall 2026, fully available April 2027.
 
 ---
 
-## Relevant Full-Time Experience
+## Core Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Stata](https://img.shields.io/badge/Stata-1A5276?style=flat&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
+Predictive Modeling · Forecasting · Econometrics · Regression · Anthropic API · Claude Code
+
+---
+
+## Relevant Experience
 | | | |
 |---|---|---|
-| May 2026 – Aug 2026 | **Vcheck Global** — Data and AI Intern | New York City, NY |
-| May 2025 – Aug 2025 | **Data Annotation** — AI Trainer, Statistical Analysis | Remote |
-| May 2024 – Aug 2024 | **Air Quality Controllers** — Technical Field Analyst | Downingtown, PA |
+| Jun 2026 – Aug 2026 | **Vcheck Global** — Business Intelligence & Data Analyst Intern | New York City, NY |
+| Jul 2026 – Aug 2026 | **Extern (PwC Sprint)** — Data Analytics Extern | Remote |
+| May 2025 – Aug 2025 | **Data Annotation** — LLM Output Evaluator, Statistical Reasoning | Remote |
+| May 2024 – Aug 2024 | **Air Quality Controllers** — Field Technician | Downingtown, PA |
 
 University of Pittsburgh · BS Statistics & Economics + MS Quantitative Economics · April 2027  
 Dean's List · Magna Cum Laude · Certificate in Sports Analytics  
@@ -24,13 +39,11 @@ Study Abroad: Temple University Japan, Tokyo · Fall 2025
 ---
 
 ## Interests
-
-Applied econometrics · AI deployment · Data Analytics · Financial Analytics · Sports Analytics · Due Diligence Research
+Applied econometrics · Data Analytics · Financial Analytics · AI deployment · Sports Analytics · Due Diligence Research
 
 ---
 
-## Projects That Your'e Looking For
-
+## Projects You're Looking For
 → [github.com/grahamdfriedman12/graham-friedman-applied-data-analysis](https://github.com/grahamdfriedman12/graham-friedman-applied-data-analysis)
 
 ---
