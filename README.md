@@ -51,6 +51,7 @@ My analytical work is organized into two tracks:
 [github.com/grahamdfriedman12/graham-friedman-applied-data-analysis](https://github.com/grahamdfriedman12/graham-friedman-applied-data-analysis)
 
 **🛠 Independent Projects** - self-directed frameworks and systems built outside academia.
+
 [github.com/grahamdfriedman12/graham-friedman-independent-projects](https://github.com/grahamdfriedman12/graham-friedman-independent-projects)
 
 ---
