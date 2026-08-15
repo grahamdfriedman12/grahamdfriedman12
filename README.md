@@ -30,7 +30,6 @@ Predictive Modeling · Forecasting · Econometrics · Regression · Anthropic AP
 | Jun 2026 – Aug 2026 | **Vcheck Global** — Business Intelligence & Data Analyst Intern | New York City, NY |
 | Jul 2026 – Aug 2026 | **Extern (PwC Sprint)** — Data Analytics Extern | New York City, NY · Remote |
 | May 2025 – Aug 2025 | **Data Annotation** — LLM Output Evaluator, Statistical Reasoning | Remote |
-| May 2024 – Aug 2024 | **Air Quality Controllers** — Field Technician | Downingtown, PA |
 
 University of Pittsburgh · BS Statistics & Economics + MS Quantitative Economics · April 2027  
 Dean's List · Magna Cum Laude · Certificate in Sports Analytics  
