@@ -46,8 +46,7 @@ Applied econometrics · Data Analytics · Financial Analytics · AI deployment �
 
 My analytical work is organized into two tracks:
 
-**📊 University Sponsored Research (University of Pittsburgh)** - econometrics and applied-statistics research from my BS in Statistics & Economics, and MS in Quantitative Economics. Full pipeline from raw data to technical report and executive summary.
-→ [github.com/grahamdfriedman12/graham-friedman-applied-data-analysis](https://github.com/grahamdfriedman12/graham-friedman-applied-data-analysis)
+**📊 University Sponsored Research (University of Pittsburgh)** - econometrics and applied-statistics research from my BS in Statistics & Economics, and MS in Quantitative Economics. Raw data to technical report and executive summary. → [github.com/grahamdfriedman12/graham-friedman-applied-data-analysis](https://github.com/grahamdfriedman12/graham-friedman-applied-data-analysis)
 
 **🛠 Independent Projects** - self-directed frameworks and systems built outside academia. → [github.com/grahamdfriedman12/graham-friedman-independent-projects](https://github.com/grahamdfriedman12/graham-friedman-independent-projects)
 
