@@ -28,7 +28,7 @@ Predictive Modeling · Forecasting · Econometrics · Regression · Anthropic AP
 | | | |
 |---|---|---|
 | Jun 2026 – Aug 2026 | **Vcheck Global** — Business Intelligence & Data Analyst Intern | New York City, NY |
-| Jul 2026 – Aug 2026 | **PwC Sprint Extern** — Data Analytics | New York City, NY · Remote |
+| Jun 2026 – Aug 2026 | **PwC Sprint Extern** — Data Analytics | New York City, NY · Remote |
 | May 2025 – Aug 2025 | **Data Annotation** — LLM Output Evaluator, Statistical Reasoning | Remote |
 
 University of Pittsburgh · BS Statistics & Economics + MS Quantitative Economics · April 2027  
