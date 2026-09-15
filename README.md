@@ -7,7 +7,7 @@ Downingtown, PA → New York, NY
 
 ---
 
-Business Intelligence & Data Analyst. Statistics & Economics (BS) + MS Quantitative Economics @ Pitt, completed in 4 total years. I build predictive models and business intelligence that turn data into decisions, with a focus on financial analytics, forecasting, and applied AI. Fully available for full-time opportunities starting May 2027.
+Business Intelligence & Data Analyst. Statistics & Economics (BS) + MS Quantitative Economics @ Pitt, finishing both in 4 total years. I build predictive models and business intelligence that turn data into decisions, with a focus on financial analytics, forecasting, and applied AI. Fully available for full-time opportunities starting May 2027.
 
 ---
 
@@ -27,13 +27,10 @@ Predictive Modeling · Forecasting · Econometrics · Regression · Anthropic AP
 ## Relevant Experience
 | | | |
 |---|---|---|
+| Sep 2026 – Present | **Frontline Gig** — Data Science and Research Intern | Pittsburgh, PA · Remote |
 | Jun 2026 – Aug 2026 | **Vcheck Global** — Business Intelligence & Data Analyst Intern | New York City, NY · Hybrid |
 | Jun 2026 – Aug 2026 | **PwC Sprint Extern** — Data Analytics | New York City, NY · Remote |
 | May 2025 – Aug 2025 | **Data Annotation** — LLM Output Evaluator, Statistical Reasoning | Downingtown, PA · Remote |
-
-University of Pittsburgh · BS Statistics & Economics + MS Quantitative Economics · April 2027  
-Dean's List · Magna Cum Laude · Certificate in Sports Studies  
-Study Abroad: Temple University Japan, Tokyo · Fall 2025
 
 ---
 
